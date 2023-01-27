@@ -1,0 +1,9 @@
+//stateful method for saving data.
+//const users = [];
+//stateless method for saving data.
+//database files
+
+
+//query parameters // URL Stateful => filtros, paginação, não-obrigatorios
+//route parameters // identificação de recurso
+//request body  // Envio de formulario (HTTPS)
